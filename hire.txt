@@ -1,0 +1,5 @@
+setrelationshiprank player 3
+addfac 5c84d 1
+addfac 5a1a4 1
+SSQ 750BA
+SET PLAYERFOLLOWERCOUNT to 0

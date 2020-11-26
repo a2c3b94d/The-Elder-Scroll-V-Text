@@ -1,0 +1,6 @@
+removefromallfactions
+addfac 00039F26 1
+setav confidence 3
+setav aggression 1
+setrelationshiprank player 1
+stopcombat
